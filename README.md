@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Kai (@kaidata352)
 
-<!--
-**kaidata352/kaidata352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer based in Austin, TX. I spend my days building cross-platform apps at App Studio, tuning performance, and getting UI details right.
 
-Here are some ideas to get you started:
+### What I'm doing
+- 📱 Shipping apps with Flutter and React Native
+- 🛠️ Integrating cloud backends with Firebase and REST/GraphQL APIs
+- 📖 Exploring native platform channels and local-first SQLite sync
+- 🧗 Climbing or finding food trucks when away from keyboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Toolbox
+- **Mobile:** Flutter, React Native, Expo
+- **Languages:** Dart, TypeScript, JavaScript
+- **Backend & Data:** Firebase (Auth, Firestore, Cloud Functions), Supabase, SQLite
+- **State Management:** Bloc, Riverpod, Zustand
+- **CI/CD & Tools:** Fastlane, GitHub Actions, Postman, Figma
+
+### Get in touch
+- Twitter/X: [@kaidata352](https://x.com/kaidata352)
+- Email: kai.builds@proton.me
